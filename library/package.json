@@ -1,5 +1,5 @@
 {
-  "name": "clipdas",
+  "name": "fireargs",
   "type": "module",
   "version": "0.0.0-dev",
   "exports": "./build/index.js",
@@ -9,10 +9,10 @@
   ],
   "license": "MIT",
   "author": "Evgeny Karev",
-  "repository": "https://github.com/datisthq/clipdas",
-  "description": "Clipdas description",
+  "repository": "https://github.com/datisthq/fireargs",
+  "description": "Fireargs description",
   "keywords": [
-    "clipdas"
+    "fireargs"
   ],
   "scripts": {
     "build": "tsgo",

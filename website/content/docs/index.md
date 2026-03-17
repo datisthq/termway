@@ -1,11 +1,11 @@
 ---
-title: Clipdas
+title: Fireargs
 template: splash
 editUrl: false
 lastUpdated: false
 hero:
   tagline: |
-    Clipdas description.
+    Fireargs description.
   # image:
   #   file: ../../assets/hero.png
   #   alt: Hero
@@ -15,13 +15,13 @@ hero:
       icon: right-arrow
       variant: primary
     - text: View on GitHub
-      link: https://github.com/datisthq/clipdas
+      link: https://github.com/datisthq/fireargs
       icon: external
       variant: minimal
 banner:
   content: |
     <p>
-      This project is in <strong>research preview</strong> phase. Please share your <a href="https://github.com/datisthq/clipdas/issues/new"><strong>feedback and ideas</strong></a>
+      This project is in <strong>research preview</strong> phase. Please share your <a href="https://github.com/datisthq/fireargs/issues/new"><strong>feedback and ideas</strong></a>
     </p>
 ---
 

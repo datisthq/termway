@@ -1,5 +1,5 @@
 {
-  "name": "clipdas",
+  "name": "fireargs",
   "$schema": "node_modules/wrangler/config-schema.json",
   "compatibility_date": "2025-08-15",
   "assets": {
@@ -7,7 +7,7 @@
   },
   "routes": [
     {
-      "pattern": "clipdas.dev",
+      "pattern": "fireargs.dev",
       "custom_domain": true,
     },
   ],

@@ -1,1 +1,1 @@
-export const clipdas = "clipdas"
+export const fireargs = "fireargs"
